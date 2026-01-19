@@ -1190,7 +1190,7 @@ const ScheduleView = ({ tasks, setTasks, currentUser }) => {
                                     </button>
                                     <input
                                         type="text" value={noteInput} onChange={(e) => setNoteInput(e.target.value)} onKeyDown={(e) => e.key === 'Enter' && handleSendMessage()}
-                                        placeholder="iMessage..."
+                                        placeholder="Type Note Here or attach a file"
                                         className="flex-1 bg-transparent border-none outline-none text-sm text-slate-700 dark:text-slate-200 placeholder-slate-400 px-3"
                                     />
                                     <button
