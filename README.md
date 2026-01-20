@@ -1,6 +1,6 @@
 # Ozark LMS Dashboard
 
-A lightweight, React-based Learning Management System (LMS) dashboard featuring a clean, Apple-inspired interface. This application provides distinct workflows for students and instructors to manage courses, assignments, quizzes, and schedules.
+A lightweight, React-based Learning Management System (LMS) dashboard featuring a clean, Apple-inspired interface. This application provides distinct workflows for students and instructors to manage courses, assignments, quizzes, and schedules. This is merely a demo, the real project is written using ASP .NET and C#
 
 ---
 
